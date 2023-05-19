@@ -9,6 +9,7 @@
 
 参考URLは以下の通り
 <li>https://zenn.dev/a_ichi1/articles/0411396e6b887d</li>
+<li>https://github.com/anuraghazra/github-readme-stats</li>
 <li>https://github.com/ryo-ma/github-profile-trophy</li>
 
 <!--
