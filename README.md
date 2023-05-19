@@ -7,7 +7,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yukiw33&theme=tokyonight&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yukiw33&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yukiw33&theme=tokyonightk&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![](https://raw.githubusercontent.com/yukiw33/yukiw33/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
