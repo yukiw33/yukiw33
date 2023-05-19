@@ -11,6 +11,7 @@
 <li>https://zenn.dev/a_ichi1/articles/0411396e6b887d</li>
 <li>https://github.com/anuraghazra/github-readme-stats</li>
 <li>https://github.com/ryo-ma/github-profile-trophy</li>
+<li>https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial#add-personal-access-token-to-repo</li>
 
 <!--
 **yukiw33/yukiw33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
